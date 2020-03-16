@@ -18,14 +18,14 @@ The 21st Century IDEA (21C) was signed into law in December 2018, and requires t
 
 Research participants indicated a strong need for more advanced form controls within the U.S. Web Design System, along with clear guidance on component selection by use case, and more cohesive treatment of accessibility considerations in digital form creation.
 
-In the course of our research, several high value “missing” form components and form helpers were identified, helping inform our wireframing efforts and the guidance that accompanies those components. During the course of our research we also  explored how other design systems approached forms. We performed a gap analysis, reviewing 13 public sector design systems and comparing their treatment of forms with the U.S. Web Design System, compiling that analysis in a spreadsheet that can be found within the Deliverables section of this document.
+In the course of our research, several "missing" high value form components and form helpers were identified, helping inform our wireframing efforts and the guidance that accompanies those components. During the course of our research we also  explored how other design systems approached forms. We performed a gap analysis, reviewing 13 public sector design systems and comparing their treatment of forms with the U.S. Web Design System, compiling that analysis in a spreadsheet that can be found within the Deliverables section of this document.
 
 At the conclusion of Phase 2, we worked to identify the highest value form controls to focus on, in order to contain scope to an achievable unit of work. These advanced form controls will include code, guidance on their selection and usage, and accessibility considerations for use. We expect to deliver between five and 12 form controls and their supporting documentation during this engagement as we  work in partnership with the USWDS product team.
 
 ## Milestones
 - June 24, 2019: [Phase One Report](https://drive.google.com/open?id=1hJoNLl58wo8f2ea7T1R4EV2P_GlqFtSW29hqie-uIi0)
 - October 21, 2019: Phase Two Kick-off
-- January 31, 2020: [Phase Two Pitch for Phase 3 Funding](https://drive.google.com/open?id=1uARlxPsnCxT2JBebUNE9aFLgBF_dwJf-)
+- January 31, 2020: [Phase Two Pitch for Phase 3 Funding](https://drive.google.com/open?id=1uARlxPsnCxT2JBebUNE9aFLgBF_dwJf-) (approved)
 - March 5, 2020: Phase Three Kick-off
 
 ## Recommendations
