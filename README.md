@@ -35,9 +35,9 @@ We recommend proceeding to a phase 3.
 Phase 3 development.
 
 ## Deliverables
-- [Draft USWDS form controls](https://docs.google.com/document/d/1DlVxLksHDnBQg8VbeiHTVeB5VdI7S6Zuh6UPK2xjEQQ/edit#heading=h.5baygyluvrnd)
-- [Form Component summaries](https://docs.google.com/document/d/13BH4OIX4K1PQ_x1O4HzaWVG914UUyQBvQFcFK6S4ycI/edit#heading=h.xqlxps9f0ndf)
-- [Gap analysis of public sector design systems’ form controls](https://drive.google.com/open?id=1xg2FJ8kyd0gxO3kfLdfNt2KFnYr3YEtpOI7jk6FRH-o)
+- [Draft USWDS form controls](Draft-USWDS-form-controls.pdf)
+- [Form Component summaries](Form-Component-Summaries.pdf)
+- [Gap analysis of public sector design systems’ form controls](USWDS-Form-Components-Gap-Analysis.pdf)
 
 ## Staffing
 ### Partner team members / stakeholders
