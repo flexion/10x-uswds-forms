@@ -41,9 +41,9 @@ Phase 3 development.
 
 ## Staffing
 ### Partner team members / stakeholders
-Product owner: Dan Williams, USWDS
-Stakeholders: IP: Ammie Farraj Feijoo, Jacob Parcell | 10x: Will Cahoe, Nico Papafil
-Project team members: 10x: William Bagayoko, Jared Cunha, Jona Decker, Ben Judy, James Mejia, Sarah Statz
+- Product owner: Dan Williams, USWDS
+- Stakeholders: IP: Ammie Farraj Feijoo, Jacob Parcell | 10x: Will Cahoe, Nico Papafil
+- Project team members: 10x: William Bagayoko, Jared Cunha, Jona Decker, Ben Judy, James Mejia, Sarah Statz
 
 ## Progress
 
