@@ -14,7 +14,7 @@ The 21st Century IDEA (21C) was signed into law in December 2018, and requires t
 
 ## Our Challenge
 
-> This work will expand the treatment of forms in USWDS to support 21C, by adding more complex and sophisticated structures while supporting key USWDS principles such as accessibility and mobile-friendliness. These additional form components will empower agencies to deliver an exceptional user experience when interacting with the government, as well as meet 21C in spirit and law.
+_This work will expand the treatment of forms in USWDS to support 21C, by adding more complex and sophisticated structures while supporting key USWDS principles such as accessibility and mobile-friendliness. These additional form components will empower agencies to deliver an exceptional user experience when interacting with the government, as well as meet 21C in spirit and law._
 
 Research participants indicated a strong need for more advanced form controls within the U.S. Web Design System, along with clear guidance on component selection by use case, and more cohesive treatment of accessibility considerations in digital form creation.
 
